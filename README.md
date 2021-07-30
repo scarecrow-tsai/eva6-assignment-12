@@ -2,6 +2,8 @@
 
 This assignment is on SpatialTransformer.
 
+Colab link: https://colab.research.google.com/drive/1FE7PCmVVae0Z5L4uxwN2d5HNzvpyhkYH?usp=sharing
+
 The folder structure is as follows -
 
 ```
